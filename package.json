@@ -1,0 +1,27 @@
+{
+  "name": "git-hook-test-project",
+  "version": "0.0.0",
+  "description": "A test project for git hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kagius@github.com/kagius/git-hook-test-project.git"
+  },
+  "keywords": [
+    "git",
+    "hooks"
+  ],
+  "author": "Karl Agius",
+  "license": "GPL 2.0",
+  "bugs": {
+    "url": "https://github.com/kagius/git-hook-test-project/issues"
+  },
+  "homepage": "https://github.com/kagius/git-hook-test-project",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2"
+  }
+}
