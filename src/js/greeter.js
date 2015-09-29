@@ -1,3 +1,3 @@
-Greet = function(name) {
+greet = function(name) {
     return "Hello " + name + "!";
 };
